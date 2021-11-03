@@ -1,0 +1,12 @@
+{
+    "compilerOptions": {
+        "strict": true,
+        "target": "es6",
+        "allowJs": false,
+        "module": "commonjs",
+        "outDir": "./solution"
+    },
+    "include": [
+        "src/**/*.ts"
+    ]
+}
